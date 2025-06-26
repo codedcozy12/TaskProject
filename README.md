@@ -27,7 +27,7 @@ A production-ready Task Management RESTful API built with *C#, **.NET 8, and **M
 | Layer         | Tech Stack                          |
 |---------------|--------------------------------------|
 | Language      | C# (.NET 8)                          |
-| DB            | PostgreSQL                           |
+| DB            | MySQL                           |
 | ORM           | Entity Framework Core                |
 | Auth          | JWT, ASP.NET Identity, IPasswordHasher |
 | API           | MediatR, Minimal APIs, Swagger       |
